@@ -3,7 +3,15 @@ Utkast til prinsipper og standarder for VTFK
 
 ## Versjonering
 
+## Navngivning
+
 ## Teknisk dokumentasjon
+
+En tjeneste er bare så god som sin dokumentasjon.
+
+Dokumentasjon skal være enkelt å finne, på en nettside som er offentlig tilgjengelig.
+
+Eksemplene bør inneholde fulle forespørsler, og svar.
 
 ## Bruker dokumentasjon
 
